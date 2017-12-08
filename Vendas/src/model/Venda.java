@@ -2,7 +2,11 @@ package model;
 
 import java.time.LocalDate;
 import java.util.List;
-
+/**
+ * PP02 - Projeto Vendas
+ * @author fnascimento
+ * 
+ */
 public class Venda {
 
 	private Integer codigo;
