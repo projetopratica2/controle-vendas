@@ -14,7 +14,7 @@ import model.Venda;
 public class ControleVendas {
 	
 	private double DESCONTO_DEBITO = 0.1;
-	private double DESCONTO_BOLETO = 0.12;
+	private double DESCONTO_BOLETO = 0.15;
 	private double JUROS_CREDITO = 0.02;
 
 	public Venda iniciarVenda(Cliente cliente){
